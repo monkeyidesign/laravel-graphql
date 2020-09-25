@@ -1,6 +1,7 @@
 # Laravel Graphql - Samreaksa Ros (sam@monkeyidesign.com | +85592 200069)
 
 #Install packages for running Graphql with laravel.
+
 **`composer create-project laravel/laravel=7.12.0 blog-ql --prefer-dist`**
 
 **`composer require nuwave/lighthouse=4.14.1`**
