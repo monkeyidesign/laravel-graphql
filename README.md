@@ -9,3 +9,7 @@
 **`composer require mll-lab/laravel-graphql-playground=2.1.0`**
 
 **`composer require --dev barryvdh/laravel-ide-helper`**
+
+**` php artisan ui vue `**
+
+**` php artisan ui vue --auth `**
